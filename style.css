@@ -1,0 +1,87 @@
+.area1 {
+  margin: 34px 82px;
+  justify-content: space-between;
+}
+.area1 .box {
+  width: 98px;
+  height: 98px;
+  background-color: #475467;
+  border: 2px solid #877bbd;
+}
+.area1 .title {
+  font-size: 15px;
+  margin-left: 117px;
+  margin-top: 75px;
+}
+.area1 .title a {
+  color: black;
+  text-decoration: none;
+}
+.area1 .title a:hover {
+  color: #2f3948;
+}
+.area1 button {
+  font-size: 13px;
+  height: 30px;
+  margin-left: -13px;
+  margin-top: 68px;
+  color: white;
+  background-color: #475467;
+  border-color: white;
+}
+
+@media (max-width: 500) {
+  .area1 {
+    margin: 34px 82px;
+    justify-content: space-between;
+  }
+  .area1 .box {
+    width: 98px;
+    height: 98px;
+    background-color: #475467;
+    border: 2px solid #877bbd;
+  }
+  .area1 .title {
+    font-size: 15px;
+    margin-left: 117px;
+    margin-top: 75px;
+  }
+  .area1 .title a {
+    color: black;
+    text-decoration: none;
+  }
+  .area1 button {
+    font-size: 13px;
+    height: 30px;
+    margin-left: 5px;
+    margin-top: 68px;
+    color: white;
+    background-color: #475467;
+  }
+}
+.area2 img {
+  width: 100%;
+  height: 100%;
+}
+
+.area3 {
+  width: 100%;
+  height: 400px;
+  justify-content: space-evenly;
+  background-color: #BEC0CD;
+  padding-top: 50px;
+}
+.area3 .button {
+  width: 282px;
+  height: 180px;
+  color: white;
+  background-color: #475467;
+  border: none;
+  border-radius: 6px;
+}
+.area3 .button:hover {
+  background-color: #2f3948;
+}
+.area3 .button:sctive {
+  scale: 1;
+}/*# sourceMappingURL=style.css.map */
